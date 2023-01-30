@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class TestttController extends Controller
+class TesttttController extends Controller
 {
     public function index()
     {
